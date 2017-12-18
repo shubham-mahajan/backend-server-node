@@ -81,6 +81,6 @@ Add additional notes about how to deploy this in docker
 
 ## Endpoints
 
-- **[<code>POST</code> login](https://github.com/shubham-mahajan/backend-task/blob/master/endpoints/login.md)*
-- **[<code>POST</code> JSON-Patch](https://github.com/shubham-mahajan/backend-task/blob/master/endpoints/json_patch.md)*
-- **[<code>GET</code> Create Thumbnail](https://github.com/shubham-mahajan/backend-task/blob/master/endpoints/createThumbnail.md)*
+- **[<code>POST</code> login](https://github.com/shubham-mahajan/backend-task/blob/master/documenation/login.md)*
+- **[<code>POST</code> JSON-Patch](https://github.com/shubham-mahajan/backend-task/blob/master/documenation/json_patch.md)*
+- **[<code>GET</code> Create Thumbnail](https://github.com/shubham-mahajan/backend-task/blob/master/documenation/createThumbnail.md)*

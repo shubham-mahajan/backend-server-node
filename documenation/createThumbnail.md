@@ -35,7 +35,7 @@ Return the Thumbnail of the input image in 50x50
 A thumbnail image with 50x50
 
 ```
-![alt text](https://github.com/shubham-mahajan/backend-task/documentation/thumb.jpg)
+![alt text](https://github.com/shubham-mahajan/backend-task/blob/master/documenation/thumb.JPG)
 ```
 
 
@@ -53,5 +53,5 @@ A thumbnail image with 50x50
 A thumbnail image with 50x50
 
 ```
-![alt text](https://github.com/shubham-mahajan/backend-task/documentation/thumb.jpg)
+![alt text](https://github.com/shubham-mahajan/backend-task/blob/master/documenation/thumb.JPG)
 ```
