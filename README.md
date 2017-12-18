@@ -1,5 +1,9 @@
+
 # Backend Task Solution
 
+[![Build Status](https://travis-ci.org/shubham-mahajan/backend-task.svg?branch=master)](https://travis-ci.org/shubham-mahajan/backend-task)
+
+----------------
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
