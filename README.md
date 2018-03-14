@@ -1,7 +1,7 @@
 
 # Backend Task Solution
 
-[![Build Status](https://travis-ci.org/shubham-mahajan/backend-task.svg?branch=master)](https://travis-ci.org/shubham-mahajan/backend-task)
+[![Build Status](https://travis-ci.org/shubham-mahajan/backend-task-node.svg?branch=master)](https://travis-ci.org/shubham-mahajan/backend-task-node)
 
 ----------------
 ## Getting Started
