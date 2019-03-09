@@ -17,11 +17,11 @@
     "chai-http": "^3.0.0",
     "eslint": "^4.13.1",
     "express": "^4.16.2",
-    "gm": "^1.23.0",
+    "gm": "^1.23.1",
     "istanbul": "^1.0.0-alpha.2",
     "json-patch": "^0.7.0",
     "jsonwebtoken": "^8.1.0",
     "mocha": "^4.0.1",
-    "request": "2.83.0"
+    "request": "^2.88.0"
   }
 }
