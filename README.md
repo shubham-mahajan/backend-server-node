@@ -1,7 +1,7 @@
 
 # Backend Task Solution
 
-[![Build Status](https://travis-ci.org/shubham-mahajan/node-server-boilerplate.svg?branch=master)](https://travis-ci.org/shubham-mahajan/backend-server-node)
+[![Build Status](https://travis-ci.org/shubham-mahajan/node-server-boilerplate.svg?branch=master)](https://travis-ci.org/shubham-mahajan/node-server-boilerplate)
 
 ----------------
 ## Getting Started
